@@ -102,6 +102,6 @@ python main.py
 
 ## 👤 Team
 This project was developed by group from class CS311.Q11.
-* ** Nguyen Hoang An** - Dataset research, RTSP streaming, data collection/merging, logic for counting, report writing, flowcharts.
-* ** Nguyen Pham Thien An ** - Dataset research, model training/fine-tuning, traffic analysis implementation, evaluation.
-* ** Phan Tien Dat ** - Tracking/speed estimation algorithms, frame extraction/ROI, dashboard adjustments, report compilation.
+* **Nguyen Hoang An** - Dataset research, RTSP streaming, data collection/merging, logic for counting, report writing, flowcharts.
+* **Nguyen Pham Thien An** - Dataset research, model training/fine-tuning, traffic analysis implementation, evaluation.
+* **Phan Tien Dat** - Tracking/speed estimation algorithms, frame extraction/ROI, dashboard adjustments, report compilation.
