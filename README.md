@@ -87,6 +87,7 @@ smart-traffic-monitoring/
 ├── main.py
 ├── requirements.txt         # Dependencies (ultralytics, opencv, etc.)
 └── README.md                # Project documentation
+```
 
 ## 🚀 Installation & Usage
 
