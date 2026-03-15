@@ -73,16 +73,20 @@ smart-traffic-monitoring/
 │
 ├── assets/                  # Demo media (images/videos) and tracker config
 │   ├── my_tracker.yaml      # ByteTrack configuration file
-│   └── traffic4.pt          # Trained YOLOv8 model weights
 ├── configs/                 # Dataset config (data.yaml)
+├── models/ 
+│   └── best.pt          # Trained YOLOv8 model weights
 ├── src/                     # Source code
 │   ├── data_preprocessing/  # Scripts for dataset preparation
-│   ├── train.py             # Training script
-│   └── utils.py             # Helper functions (frame extraction, etc.)
-├── main.py                  # Main inference & counting script
+│   └── train.py
+├── tools/
+│   ├── ffnpeg.exe
+│   ├── mediamtx.exe
+│   └── mediamtx.yml
+├── .gitignore
+├── main.py
 ├── requirements.txt         # Dependencies (ultralytics, opencv, etc.)
 └── README.md                # Project documentation
-```
 
 ## 🚀 Installation & Usage
 
